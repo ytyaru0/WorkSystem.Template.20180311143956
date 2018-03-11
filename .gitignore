@@ -1,0 +1,20 @@
+# gitで管理しないファイル
+*.URL
+*.BAK
+*.pyc
+*.sqlite3
+meta_*
+コピー ～ *
+コピー (*
+* (コピー).*
+* (別のコピー).*
+* (*番目のコピー).*
+old/
+__*
+#.gitignore
+#*.json
+#*.html
+#*.yml
+#memo.md
+#HatenaBlog*
+
