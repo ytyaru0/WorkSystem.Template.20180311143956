@@ -4,6 +4,8 @@
 
 いまいち決めきれない。Markdownの機能不足が多くてフォーマット以前の問題。
 
+関連repo: [Memo.Think.20180308193649](https://github.com/ytyaru0/Memo.Think.20180308193649/tree/master/docs)
+
 # 開発環境
 
 * [Raspberry Pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 3 Model B
